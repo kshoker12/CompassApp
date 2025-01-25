@@ -19,9 +19,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div style="display: flex; align-items: flex-start; gap: 20px;" align = "left">
     <p>
-    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging meals and tracking their macronutrient content. 
-    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. 
-    The demo below illustrates how the Diet Tracker component works.
+  The Todo List section allows me to systematically get difficult tasks done by breaking it down into sub-tasks, which I finish one hour at a time. The app tracks how many hours I spent on a daily, weekly, and monthly basis. Whenever I finish an hour of work, the app logs the hour and also tracks which responsibility the task was for, such as Training, Career, or a University Course. I can add tasks to the Todo List by selecting subtasks from my responsibilities. The demo below illustrates how the Todo List component works.
   </p>
   
 [Click for Demo](https://kshoker12.github.io/CompassApp/images/demos/tododemo.mp4)
@@ -66,16 +64,16 @@ The Compass App is a comprehensive full-stack application that I designed and de
   </p>
   
   [Click for Demo](https://kshoker12.github.io/CompassApp/images/demos/ratingdemo.mp4)
-  
-  <img 
-    src="https://github.com/user-attachments/assets/78251a9c-3a2c-4ce6-acde-e16d58817dbd"
-    width="300" 
+
+<img 
+    src="https://github.com/user-attachments/assets/ae175302-809b-4642-b739-512764ffa32e"
+    width="200" 
     style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" 
     alt="Diet Tracker Demo"
   />
   <img 
-    src="https://github.com/user-attachments/assets/ae175302-809b-4642-b739-512764ffa32e"
-    width="200" 
+    src="https://github.com/user-attachments/assets/78251a9c-3a2c-4ce6-acde-e16d58817dbd"
+    width="300" 
     style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" 
     alt="Diet Tracker Demo"
   />
