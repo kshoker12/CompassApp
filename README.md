@@ -4,7 +4,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 **Disclaimer:** Some of the data shown in screenshots and videos, such as financial information, is randomly generated to simulate realistic usage within the application. It does not represent actual data or reflect any real-life information.
 
-**Content**
+**Sections**
 - [Todo List](#todo-list)
 - [Diet Tracker](#diet-tracker)
 - [Life Ultimate Team](#life-ultimate-team)
@@ -123,7 +123,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 [Click for Demo 2](https://kshoker12.github.io/CompassApp/images/demos/dashboarddemo2.mp4)
   
   <img 
-    src="https://github.com/user-attachments/assets/c7b45237-d0b5-4565-b698-63ce6bb34f68"
+    src="https://github.com/user-attachments/assets/6b5b1d3d-6b41-45cc-8353-80e12e25800d"
     width="200" 
     style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" 
     alt="Diet Tracker Demo"
@@ -131,6 +131,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 </div>
 
 ---
+
 
 ### Login and Security
 
