@@ -4,6 +4,15 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 **Disclaimer:** Some of the data shown in screenshots and videos, such as financial information, is randomly generated to simulate realistic usage within the application. It does not represent actual data or reflect any real-life information.
 
+**Content**
+- [Todo List](#todo-list)
+- [Diet Tracker](#diet-tracker)
+- [Life Ultimate Team](#life-ultimate-team)
+- [Compass](#compass)
+- [Dashboard](#dashboard)
+- [Login and Security](#login-and-security)
+
+
 ---
 
 ### Todo List
@@ -123,7 +132,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 ---
 
-### Login/Security
+### Login and Security
 
 <div>
     <p>
