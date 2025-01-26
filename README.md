@@ -19,7 +19,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div style="display: flex; align-items: flex-start; gap: 20px;" align = "left">
     <p>
-  The Todo List section allows me to systematically get difficult tasks done by breaking it down into sub-tasks, which I finish one hour at a time. The app tracks how many hours I spent on a daily, weekly, and monthly basis. Whenever I finish an hour of work, the app logs the hour and also tracks which responsibility the task was for, such as Training, Career, or a University Course. I can add tasks to the Todo List by selecting subtasks from my responsibilities. The demo below illustrates how the Todo List component works.
+  The Todo List section allows me to systematically get difficult tasks done by adding them to my Todo List and breaking it down into manageable sub-tasks, which I finish one hour at a time. The app tracks how many hours I spend on completing tasks on a daily, weekly, and monthly basis. Whenever I finish an hour of work, the app logs the hour and also tracks which responsibility the task was for, such as Training, Career, or a University Course. This allows me to effectively manage and allocate my time and maximize my efficiency. I can add tasks to the Todo List by selecting subtasks from my responsibilities. The demo below illustrates how the Todo List component works.
   </p>
   
 [Click for Demo](https://kshoker12.github.io/CompassApp/images/demos/tododemo.mp4)
@@ -37,8 +37,8 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div>
   <p>
-    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging meals and tracking their macronutrient content. 
-    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. 
+    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging my daily fitness activities and the macronutrient content of my daily meals. 
+    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. It also includes my favourite recipes. 
     The demo below illustrates how the Diet Tracker component works.
   </p>
 
@@ -58,9 +58,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div>
   <p>
-    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging meals and tracking their macronutrient content. 
-    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. 
-    The demo below illustrates how the Diet Tracker component works
+      Life Ultimate Team is inspired by Hockey Ultimate Team and Fifa Ultimate Team from the video games I played when I was younger. Essentially, it provides me with quantifiable metrics to track my progress in life by giving myself a daily rating from 1-10 for various attributes such as mindset, work-ethic, and social skills and my overall rating is an average of my rating for all attributes. This allows me to hold myself accountable and reflect on my day and what areas I need to improve on. The images below compares my implementation of a Life Ultimate Team card compared to a Fifa Ultimate Team card of Lionel Messi. The demo illustrates how Life Ultimate Team section works. 
   </p>
   
   [Click for Demo](https://kshoker12.github.io/CompassApp/images/demos/ratingdemo.mp4)
@@ -88,9 +86,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div>
   <p>
-    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging meals and tracking their macronutrient content. 
-    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. 
-    The demo below illustrates how the Diet Tracker component works.
+   The compass section is a framework which I developed which allows me to set Yearly, Monthly, and Weekly goals. Every week I get assigned a percentage for the week based on my progression towards my weekly goals. The weekly percentage, hours I spend working, and mistakes I make are all tracked for each week, allowing me to analyze patterns and trends in my progression which lets make effective decisions and systematically track my progress. Additionally, if I achieve a score of 90% or higher in a week, I reward myself with a champion status which gives me motivation to keep achieving my weekly goals. This championship status is inspired by watching UFC and boxing. The compass section has been life-changing and helped me progress towards my goals. The demos below illustrates how the compass section works. 
   </p>
 
 [Click for Demo 1](https://kshoker12.github.io/CompassApp/images/demos/wcompassdemo.mp4)
@@ -111,9 +107,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div>
     <p>
-    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging meals and tracking their macronutrient content. 
-    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. 
-    The demo below illustrates how the Diet Tracker component works.
+        The dashboard for the Compass App has a summary and charts to track progression for each section such as my overall rating from Life Ultimate Team, hours I have spent working during the week, number of tasks completed in Todo List, my networth, and the number of times I have had champion status and if I have champion status, a UFC championship belt is displayed in dashboard. Additionally, I use Zen Quotes API to generate motivational quotes which is highlighted as the Quote of the Day to motivate me and inspire me with new ideas. It also has a picture of my favourite boxer Dmitry Bivol since he inspires me to work hard and achieve my goals. It also allows me to manage my responsibilities and add tasks for each responsibility. The demos illustrate key features of Dashboard.
   </p>
 
 [Click for Demo 1](https://kshoker12.github.io/CompassApp/images/demos/dashboarddemo.mp4)
@@ -135,9 +129,7 @@ The Compass App is a comprehensive full-stack application that I designed and de
 
 <div>
     <p>
-    The Diet Tracker section allows me to monitor my nutritional intake systematically by logging meals and tracking their macronutrient content. 
-    The app provides daily, weekly, and monthly summaries of my dietary habits and helps me stay on track with my fitness and health goals. 
-    The demo below illustrates how the Diet Tracker component works.
+       Everytime I open Compass App, I'm prompted to provide my 6-digit passcode for authentication. If the password is correct, an API call to the backend Django database is made and all the data for the Compass App is retrieved. This is implemented in a highly secure manner and uses authenticated sessions via tokens which keeps my personal data for the app secure. The demo illustrates the login process. 
   </p>
 
 [Click for Demo](https://kshoker12.github.io/CompassApp/images/demos/login.mp4)
